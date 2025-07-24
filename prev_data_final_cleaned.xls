@@ -1,0 +1,11 @@
+SK_ID_CURR,AMT_CREDIT,NAME_CONTRACT_STATUS,NAME_CLIENT_TYPE,AMT_ANNUITY,NAME_CASH_LOAN_PURPOSE,CREDIT_BINNED
+100001,300000.0,Approved,Repeater,15810.0,Housing,Moderate
+100002,150000.0,Refused,New,5580.0,Education,Low
+100003,600000.0,Approved,Repeater,24700.0,Furniture,Very High
+100004,450000.0,Approved,New,17000.0,Wedding,High
+100005,240000.0,Refused,New,13300.0,Travel,Moderate
+100006,100000.0,Canceled,New,4875.0,Education,Low
+100007,360000.0,Refused,Repeater,16470.0,Business development,High
+100008,600000.0,Approved,Repeater,24700.0,Education,Very High
+100009,90000.0,Refused,New,3120.0,Furniture,Low
+100010,120000.0,Approved,New,6120.0,Business development,Low
